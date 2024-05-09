@@ -9,7 +9,7 @@
 
 		if (usuario == "42427517" && contrasena == "42427517") {
 			event.preventDefault()
-			window.location.href = "../html/42427517T.html"
+			window.location.href = "../html/test_user.html"
 		}
 		else if (usuario == "123" && contrasena == "123") {
 			window.alert("Esto es un prueba.")
